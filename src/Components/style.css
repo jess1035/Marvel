@@ -1,0 +1,172 @@
+* {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* UpperPortion starts here */
+
+
+/* Navbar starts here */
+
+.mainimage {
+    height: 500px;
+    background-image: url("/src/cover.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+nav {
+  display: flex;
+  height: 69px;
+  color: white;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+div.logo {
+  width: 25vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 221px;
+  background-image: url("/src/Marvel_Logo.svg.png");
+  background-repeat: no-repeat;
+  background-size: 39%;
+}
+
+div.home {
+  display: flex;
+  width: 60vw;
+  justify-content: space-around;
+  align-items: center;
+  margin-right: 24px;
+}
+
+div.home ul {
+  background-color: #1d1950;
+  padding: 10px;
+  cursor: pointer;
+}
+
+/* Navbar ends here */
+
+/* Below Navbar starts here  */
+
+div.imagehere {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  height: 321px;
+
+  align-items: center;
+}
+
+div.creative {
+  background-color: #1d1950de;
+  color: white;
+  height: auto;
+  width: 478px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+h3 {
+  margin-bottom: 5px;
+}
+
+.Render {
+  height: 27px;
+  width: 69px;
+  margin-top: 10px;
+  color: white;
+  background-color: #1d195091;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* Below Navbar ends here  */
+
+/* UpperPortion ends here */
+
+/* Services starts here */
+.Services
+{
+    height: auto;
+    width: 100vw;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    background-color: #1d1950;
+    color: white;
+}
+
+p.AboutInvasion
+{
+    margin: 10px 0px;
+    height: auto;
+    width: 60vw;
+    text-align: center;
+    
+}
+.secretImageSection
+{
+    display:flex;
+    background-color: #00000024;
+    justify-content: center;
+    width:757px;
+}
+.secretImageSections
+{
+    width: 13vw;
+    margin: 10px;
+    
+}
+
+.image1
+{
+    height: 292px;
+    width: 193px;
+    background-image: url('/src/secretinvasion1.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.image2
+{
+    height: 292px;
+    width: 193px;
+    background-image: url('/src/secretinvasion2.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.image3
+{
+    height: 292px;
+    width: 193px;
+    background-image: url('/src/secretinvasion3.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+p.AboutComics
+{
+    width: 193px;
+}
+/* Services ends here */
+
+/* Products starts here */
+
+.Copyright
+{
+  height:50px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(126, 125, 125);
+  color: white;
+}
+/* Products ends here */
