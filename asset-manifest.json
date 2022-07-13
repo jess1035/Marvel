@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Marvel/static/css/main.f5e1d5d5.css",
+    "main.js": "/Marvel/static/js/main.b24d48e9.js",
+    "static/js/787.a3f65e08.chunk.js": "/Marvel/static/js/787.a3f65e08.chunk.js",
+    "static/media/cover.jpg": "/Marvel/static/media/cover.e8bb1b9b0d3db6ca9a3a.jpg",
+    "static/media/secretinvasion1.jpg": "/Marvel/static/media/secretinvasion1.713d524448e4b6c8e590.jpg",
+    "static/media/Marvel_Logo.svg.png": "/Marvel/static/media/Marvel_Logo.svg.c62c859021025ac58899.png",
+    "static/media/secretinvasion2.jpg": "/Marvel/static/media/secretinvasion2.91bc3cc38c55bc35c137.jpg",
+    "static/media/secretinvasion3.jpg": "/Marvel/static/media/secretinvasion3.cf4904e8e5eaec817f12.jpg",
+    "index.html": "/Marvel/index.html",
+    "main.f5e1d5d5.css.map": "/Marvel/static/css/main.f5e1d5d5.css.map",
+    "main.b24d48e9.js.map": "/Marvel/static/js/main.b24d48e9.js.map",
+    "787.a3f65e08.chunk.js.map": "/Marvel/static/js/787.a3f65e08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5e1d5d5.css",
+    "static/js/main.b24d48e9.js"
+  ]
+}
